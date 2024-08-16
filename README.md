@@ -1,4 +1,7 @@
-## Code and data used in the 311 flood analysis for Ophelia in Sept 2023
+## Code tutorial for flood analysis using NYC 311 open data
+Tropical Storm Ophelia, Sept 2023
+
+Main Notebook: 311_Investigation.ipynb
 
 Companion to article: https://www.linkedin.com/pulse/flooding-nyc-311-complaints-retrospective-priscilla-cole-d8yee
 
